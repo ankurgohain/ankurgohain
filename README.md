@@ -2,7 +2,7 @@ Hello there! I'm Ankur, a second-year computer science student currently in SRM 
 
 🔭 I’m currently working on: OCR models
 
-🌱 I’m currently learning: TensorFlow
+🌱 I’m currently learning: Formal Language and Automata
 
 💬 Ask me about: My third eye 
 

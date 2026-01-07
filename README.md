@@ -1,8 +1,8 @@
 Hello there! I'm Ankur, a second-year computer science student currently in SRM Ramapuram, Chennai. Here's some details about me!
 
-🔭 I’m currently working on: OCR models
+🔭 I’m currently working on: Backend Payment API
 
-🌱 I’m currently learning: Formal Language and Automata
+🌱 I’m currently learning: DSA and Django
 
 💬 Ask me about: My third eye 
 
